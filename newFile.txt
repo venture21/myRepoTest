@@ -1,0 +1,9 @@
+git을 사용하는 순서
+
+0. 웹브라우저에서 github.com에 sign in한다.
+1. github사이트에 repo를 생성한다.
+2. local컴퓨터(내컴퓨터)에  repo를 clone한다.
+   File메뉴에서 clone repository
+3. 새로운 파일을 생성한다.
+4.  commit to main으로 add, commit한다.
+5. push origin main을 눌러 remote repo에 올려준다.
